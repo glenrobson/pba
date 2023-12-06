@@ -1,0 +1,8 @@
+{
+  "collection": "https://glenrobson.github.io/iiif_stuff/pba/collection.json",
+  "metadata": ["Date", "Subject"],
+  "label": { "en": ["P B Abery Collection of photographs"] },
+  "summary": {
+    "en": ["P B Abery was born in Folkestone, one of eleven children. In 1898 he bought a small photography business in Builth Wells and continued in business for half a century. By 1911 the business had grown sufficiently to allow him to move to the West End Studio. Darkrooms were placed in the basement, the shop on the ground floor, a workshop for framing and mounting on the first floor and the studio on the top to take advantage of daylight."]
+  }
+}
