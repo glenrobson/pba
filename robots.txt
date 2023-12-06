@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://glenrobson.github.io/pba
+
+# Sitemaps
+Sitemap: https://glenrobson.github.io/pba/sitemap.xml
